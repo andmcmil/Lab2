@@ -7,6 +7,7 @@ namespace Lab2
         static void Main(string[] args)
         {
             string repeat = null;
+            Console.WriteLine("Welcome to Grand Circus' Room Detail Generator!");
             do
             {
                 Console.WriteLine("Enter the Length of the room.");
